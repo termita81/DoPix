@@ -1,0 +1,7 @@
+﻿
+
+enum VerbosityLevel
+{
+	None,
+	Verbose
+}

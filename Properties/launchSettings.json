@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DoPix": {
+      "commandName": "Project",
+      "commandLineArgs": "c:/pup d:/pix/nesortate -k"
+    }
+  }
+}

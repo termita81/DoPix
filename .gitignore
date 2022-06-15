@@ -1,0 +1,22 @@
+# Visual Studio
+*.suo
+*.csproj.user
+*.vcxproj.user
+*.wixproj.user
+*.sdf
+*.opensdf
+**/.vs/
+**/bin/
+**/obj/
+**/.nuget/NuGet.exe
+*.opendb
+*.db
+
+# NuGet
+**/packages/
+
+# NPM
+**/node_modules/
+
+# Webpack
+**/build/
